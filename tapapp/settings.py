@@ -25,7 +25,7 @@ SECRET_KEY = 'r&=*%#-7lxy9d_&(4+v^$#%5=6b(6p)!f%+e)fp4)xv38vzsqj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [desolate-fortress-38329.herokuapp.com]
 
 
 # Application definition
